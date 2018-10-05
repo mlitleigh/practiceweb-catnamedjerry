@@ -1,0 +1,83 @@
+@charset "utf-8";
+h1 {
+	font-family: loved-by-the-king;
+	text-align: center;
+	color: #003164;
+	text-shadow: 0px -7px 6px #5D5D5D;
+	font-style: normal;
+	font-weight: 400;
+	font-size: 59px;
+	text-transform: none;
+	word-spacing: -8px;
+}
+#footer {
+	color: #585858;
+	text-align: center;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+	font-size: 12px;
+}
+h3 {
+	font-family: loved-by-the-king;
+	font-style: normal;
+	font-weight: 400;
+	text-align: center;
+	font-size: 35px;
+	word-spacing: -8px;
+}
+.signature p {
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+	color: #003164;
+	font-weight: bold;
+	font-size: 16px;
+	text-indent: 0px;
+}
+p   {
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+	margin-left: 0px;
+	text-indent: 25px;
+	font-size: 25px;
+}
+#navigation li {
+	color: #003164;
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+	list-style-type: none;
+	display: inline;
+	float: none;
+	margin-left: 20px;
+	margin-right: 20px;
+	font-weight: 500;
+	text-indent: 0px;
+}
+#navigation {
+	text-align: center;
+	font-size: 18px;
+}
+body {
+	background-color: #7288B4;
+	background-image: url(../Images/1fc00b8ac3af46d79c85b477091814f7.png), -webkit-linear-gradient(270deg,rgba(112,134,179,1.00) 0%,rgba(61,61,107,1.00) 100%);
+	background-image: url(../Images/1fc00b8ac3af46d79c85b477091814f7.png), -moz-linear-gradient(270deg,rgba(112,134,179,1.00) 0%,rgba(61,61,107,1.00) 100%);
+	background-image: url(../Images/1fc00b8ac3af46d79c85b477091814f7.png), -o-linear-gradient(270deg,rgba(112,134,179,1.00) 0%,rgba(61,61,107,1.00) 100%);
+	background-image: url(../Images/1fc00b8ac3af46d79c85b477091814f7.png), linear-gradient(180deg,rgba(112,134,179,1.00) 0%,rgba(61,61,107,1.00) 100%);
+}
+#bodynav {
+	text-align: center;
+	font-size: 16px;
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+	color: #003164;
+}
+#bodynav li {
+	list-style-type: none;
+	display: inline;
+	float: none;
+	margin-left: 20px;
+	margin-right: 20px;
+	font-weight: 500;
+	text-indent: 0px;
+}
+.funny.cat {
+	float: left;
+	border: medium solid #515B89;
+	border-radius: 190px;
+	padding-right: 0px;
+	margin-right: 9px;
+}
